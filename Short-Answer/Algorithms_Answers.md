@@ -2,16 +2,14 @@
 
 ## Exercise I
 
-a) O(n) 
+a)
 
 
-b) O(log(n)) 
+b)
 
 
-c) O(n) 
+c)
 
 ## Exercise II
-O(log(n))
-There are a list of floors, true or false is returned if the egg broke or not. Then search the bool to find the highest floor where the egg never broke.
 
 
